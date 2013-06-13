@@ -1,0 +1,4 @@
+SELF REFENCING
+
+this is just a first program that I'm sending over to gitHub to get use to the commands and functinalities.
+What this program does it refence itself. After compiling it, g++ selfRefItself.cpp, and running it, we will see that it prints itself out!
